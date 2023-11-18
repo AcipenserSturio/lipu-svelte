@@ -1,0 +1,5 @@
+import{s as i,n as a}from"../chunks/scheduler.6c3506a3.js";import{S as r,i as h,g as d,h as c,x as l,k as m,a as p,f as u}from"../chunks/index.3c056825.js";function g(n){let e,s=`<a class="navlink" href="about">Go back</a> <h1>nimi Linku (the
+		<a href="https://docs.google.com/spreadsheets/d/1xwgTAxwgn4ZAc4DBnHte0cqta1aaxe112Wh1rv9w5Yk">sheet</a>)</h1> <p>The sheet is where you go to add new data. Everyone has access to viewing and commenting, but
+		not editing (this is a form of moderation, to avoid potential abuse).</p> <p>The sheet is owned by me (kala Asi) and changes are discussed on the
+		<a href="https://discord.gg/A3ZPqnHHsy">Linku discord server</a>.</p> <p>Changes to the sheet get mirrored to the
+		<a href="about/jasima">database</a>.</p> <p>The Info tab contains useful / important info! Make sure to read it.</p>`;return{c(){e=d("div"),e.innerHTML=s,this.h()},l(t){e=c(t,"DIV",{class:!0,"data-svelte-h":!0}),l(e)!=="svelte-169oev1"&&(e.innerHTML=s),this.h()},h(){m(e,"class","page_width_limiter")},m(t,o){p(t,e,o)},p:a,i:a,o:a,d(t){t&&u(e)}}}class _ extends r{constructor(e){super(),h(this,e,null,g,i,{})}}export{_ as component};

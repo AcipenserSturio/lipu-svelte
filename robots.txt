@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://linku.la/sitemap.xml

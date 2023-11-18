@@ -1,0 +1,6 @@
+import{s as n,n as e}from"../chunks/scheduler.6c3506a3.js";import{S as r,i as h,g as l,h as p,x as u,k as m,a as f,f as d}from"../chunks/index.3c056825.js";function b(s){let a,i=`<a class="navlink" href="/">Go back</a> <h1>About Linku</h1> <p>Linku is a <a href="about/nimi">sheet</a>, a
+		<a href="about/ilo">bot</a>, a <a href="about/jasima">database</a> and a
+		<a href="about/lipu">website</a>, put together by kala Asi for the purpose of displaying toki
+		pona dictionary information.</p> <p>ku data is provided by
+		<a href="http://tokipona.org/nimi_pu.txt">tokipona.org</a>.</p> <h2><a href="about/nimi">nimi Linku (the sheet)</a></h2> <h2><a href="about/ilo">ilo Linku (the bot)</a></h2> <h2><a href="about/jasima">jasima Linku (the mirror / database)</a></h2> <h2><a href="about/lipu">lipu Linku (the website)</a></h2> <h2><a href="https://discord.gg/A3ZPqnHHsy">Discord server (contact us there!)</a></h2> <p>See also <a href="sitelen">sitelen Linku</a>, a small experimental page that displays existing
+		sitelen pona, with short etymologies.</p>`;return{c(){a=l("div"),a.innerHTML=i,this.h()},l(t){a=p(t,"DIV",{class:!0,"data-svelte-h":!0}),u(a)!=="svelte-1w9u0bt"&&(a.innerHTML=i),this.h()},h(){m(a,"class","page_width_limiter")},m(t,o){f(t,a,o)},p:e,i:e,o:e,d(t){t&&d(a)}}}class g extends r{constructor(a){super(),h(this,a,null,b,n,{})}}export{g as component};
