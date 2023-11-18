@@ -8,7 +8,10 @@ const config = {
 	kit: {
 		adapter: adapter({
 			fallback: 'index.html' // may differ from host to host
-		})
+		}),
+		paths: {
+			base: '/lipu-svelte'
+		}
 	}
 };
 

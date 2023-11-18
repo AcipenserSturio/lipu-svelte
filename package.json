@@ -14,7 +14,7 @@
 		"test:integration": "playwright test",
 		"test:unit": "vitest",
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -d build -t true"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
